@@ -1,6 +1,6 @@
 name: 'Deploy to Firebase Functions'
-author: 'Adu Williams <aduwillie@gmail.com>'
-description: 'A GitHub Action to deploy to Firebase Functions'
+author: 'Matheus Santos <matgsan@me.com>'
+description: 'A GitHub Action to deploy to Firebase Functions with tslint and other dependencies'
 runs:
   using: 'docker'
   image: 'Dockerfile'
