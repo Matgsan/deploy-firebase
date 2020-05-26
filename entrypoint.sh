@@ -8,5 +8,4 @@ fi
 npm install
 
 firebase deploy \
-    --token ${FIREBASE_TOKEN} \
-    --only functions
+    --token ${FIREBASE_TOKEN}
